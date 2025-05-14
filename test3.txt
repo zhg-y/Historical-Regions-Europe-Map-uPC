@@ -1,0 +1,56 @@
+[Desc]CPU : 12th Gen Intel(R) Core(TM) i7-1255U 
+[Desc]CPU : Support FPU, MMX, SSE, SSE2, SSE3, SSSE3, FMA, SSE4.1, SSE4.2, AES, AVX, F16C, AVX2,  
+[Desc]CPU : 12 Cores 
+[Desc]OS : Microsoft Windows 8   (Build 9200) 
+[Desc]Timer : Hybrid timer (10.000000Mhz) 
+[Desc]Memory Total : 16083.000 MB 
+[Desc]Memory Available : 6626.948 MB 
+[Desc]Save Desktop Resolution : 1920 x 1080 32Bits 60Hz 
+[Desc]Device Name CDD 
+[Desc]Driver Version 1025 
+[Desc]------ 
+[Desc]Loading DB - Begin 
+[Desc]Loading DB - End 
+[Desc]------ 
+[Desc]File Version : 2, 3, 5, 98 
+[Desc]DirectX Version : 11.0 
+[Desc]Init UI Sound... 
+[Desc]Init SoundManager... 
+[Desc]Create Renderer 
+[Desc]	Using NiDX9Renderer on Direct3D9Ex 
+[Desc]	VertexShader Version 3.0, supported 
+[Desc]	PixelShader Version 3.0, supported 
+[Desc]Video Memory : 134217728 
+[Desc]Create Renderer succeed 
+[Desc]Device Type : 3D Hardware 
+[Desc]Description : Intel(R) Iris(R) Xe Graphics 
+[Desc]Driver : igd10iumd32.dll 
+[Desc]Driver Version : 30.0.101.2079 
+[Desc]Video Mode List - Begin 
+[Desc]1920 x 1080, 32 bits 
+[Desc]800 x 600, 32 bits 
+[Desc]1024 x 768, 32 bits 
+[Desc]1152 x 864, 32 bits 
+[Desc]1280 x 600, 32 bits 
+[Desc]1280 x 720, 32 bits 
+[Desc]1280 x 768, 32 bits 
+[Desc]1280 x 800, 32 bits 
+[Desc]1280 x 960, 32 bits 
+[Desc]1280 x 1024, 32 bits 
+[Desc]1360 x 768, 32 bits 
+[Desc]1366 x 768, 32 bits 
+[Desc]1400 x 1050, 32 bits 
+[Desc]1440 x 900, 32 bits 
+[Desc]1600 x 900, 32 bits 
+[Desc]1680 x 1050, 32 bits 
+[Desc]Video Mode List - End 
+[Desc]PrecacheKFM : 35->36=0 MBytes 
+[Desc]PeriodMin : 1 
+[Desc]PeriodMax : 1000000 
+[Desc]MinSleepPeriod : 0.001697 
+[Desc]LoginServer IP: 54.39.158.92(54.39.158.92), Port 6543
+ 
+[Desc]WorldServer IP: 54.39.158.92, Port 5568
+ 
+[Desc]ZoneServer IP: 54.39.158.92, Port 10022
+ 
