@@ -1,7 +1,7 @@
 # Map of Historical Regions of Europe v1.3
 *The git repository doesn't include all the raw files as some of these files are too large for git.  
 The complete raw files can be found on the 
-<a href="https://drive.google.com/drive/folders/116h7y7FmJIzdcVWUBDu9n52ia1VrAmDN?" target="_blank">origignal drive.</a>*
+<a href="https://drive.google.com/drive/folders/116h7y7FmJIzdcVWUBDu9n52ia1VrAmDN?" target="_blank">original drive.</a>*
 ## Table of Contents
 
  1. [Why such a map ?](#paragraph1)
