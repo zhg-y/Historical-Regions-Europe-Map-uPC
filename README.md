@@ -7,9 +7,28 @@
  3. [Methodology](#paragraph3)
  4. [v1.3 release note](#paragraph4)
  5. [Explanations on some regions](#paragraph5)
+    1. [Germany](#sub-paragraph1-1)
+    2. [Italy](#sub-paragraph1-2)
+    3. [Balkans](#sub-paragraph1-3)
+    4. [Russia](#sub-paragraph1-4)
+    5. [Belarus](#sub-paragraph1-5)
+    6. [Ruthenia](#sub-paragraph1-6)
+    7. [Hungary](#sub-paragraph1-7)
+    8. [Anatolia](#sub-paragraph1-8)
+    9. [Slovakia & Scotland](#sub-paragraph1-9)
+    10. [Armenia](#sub-paragraph1-10)
+    11. [Switzerland](#sub-paragraph1-11)
+    12. [France](#sub-paragraph1-12)
+    13. [Azerbaijan](#sub-paragraph1-13)
+    14. [Africa and the Middle East](#sub-paragraph1-14)
+    15. [Terms in their original language](#sub-paragraph1-15)
  6. [Questions that people will be asking](#paragraph6)
+    1. [Why is the language not consistent ?](#sub-paragraph6-1)
+    2. [What time period is this map based on ?](#sub-paragraph6-2)
+    3. [Why is the scale not consistent ?](#sub-paragraph6-3)
+    4. [Thingummy shouldn't be a region](#sub-paragraph6-4)
+    5. [Nitpicking about inaccuracies](#sub-paragraph6-5) 
  7. [Discussions that helped shape this map](#paragraph7)
- 8. [Some paragraph](#paragraph1)
 
 
 <a name="paragraph1"></a>
@@ -293,13 +312,114 @@ There are some exceptions with regions where data in English is scarce (like Hun
 Some typos resulting from using reference maps in the local language 
 and then not double checking the name on Wikipedia EN do exist.
 
+<a name="sub-paragraph6-2"></a>
+## 2.	What time period is this map based on ?
+*Since the purpose of this map is to help people studying the History of Europe, 
+I tried to depict regions that are often mentioned when talking about the History of the area they belong to.*  
+
+There is no specific time period. For example, Alsace acquired most of its modern shape only 
+<a href="https://en.wikipedia.org/wiki/Nine_Years%27_War" target="_blank">after 1697</a>, 
+while the majority of Normandy’s modern borders date back to the 
+<a href="https://en.wikipedia.org/wiki/Treaty_of_Saint-Clair-sur-Epte" target="_blank">11th century</a>. 
+Yet, both have played a 
+<a href="https://en.wikipedia.org/wiki/Annexations_of_Alsace%E2%80%93Lorraine" target="_blank">significant</a> 
+<a href="https://en.wikipedia.org/wiki/Vexin" target="_blank">role</a> 
+in the 
+<a href="https://en.wikipedia.org/wiki/Norman_Conquest" target="_blank">History of Europe</a>. 
+So, it makes them both valid regions for what I am aiming for.
+
+<a name="sub-paragraph6-3"></a>
+## 3.	Why is the scale not consistent ? (regions that are several times bigger than other regions)
+*Since the purpose of this map is to help people studying the History of Europe, 
+I tried to depict regions that are often mentioned when talking about the History of the area they belong to.*  
+
+The purpose of this map is not to display NUTS1, 2, 3 or whatever other scale-consistent regions. 
+The answer to the previous question applies here too.
+
+<a name="sub-paragraph6-4"></a>
+## 4.	Thingummy shouldn’t be a region
+The broader question here is:*Should region X be removed ?*. 
+My general response is: What are the downsides of including too many regions ?  
+Here are the main issues:  
+1.	Visual clutter – An excessive number of regions can make the map unreadable, 
+with overlapping borders and labels. This is especially noticeable in areas like the Balkans and Hungary.
+3.	Complexity – A map that is too detailed may overwhelm users and make it harder for them to find the information they’re looking for. 
+The 17th-century Holy Roman Empire is a typical example of this.
+
+That said, I prefer to include as many regions as possible, 
+as long as the issues above are avoided. For instance, the number of regions in England has grown from 8 (in version 0) 
+to 16 (in version 1.3). If I reverted to version 0, regions like 
+Mercia, Northumbria, or Wessex would be larger—but that wouldn't help someone looking specifically for 
+Yorkshire or Lancashire as those regions have been removed. 
+In this case, the map becomes less useful. Removing regions ultimately means removing information.  
+
+There are, however, a few exceptions to this principle:  
+- **The Balkans**: I chose to include a large number of regions here, 
+as most maps of the Balkans tend to focus on political, ethnic, or religious borders. 
+There is a lack of maps showing historical regions in that area of Europe.
+- **Controversial regions**: Regions that have created numerous disagreements with 
+many people asking for their removal or replacement, 
+like Donbass that was a soviet creation (even the term Donbass is an artificial abbreviation).
+
+<a name="sub-paragraph6-5"></a>
+## 5.	Nitpicking about inaccuracies
+I am happy to get your feedbacks because I will then learn something I am interested in. 
+But keep in mind that this is an approximate map that should be used alongside more detailed maps. 
+
+<a name="sub-paragraph6-6"></a>
+<!-- 
+## 6. For the brainless haters
+I am not expecting you to go as far as looking at the sources I provided. 
+If you went through all the hardship of reading someone you have deemed to be stupid, 
+then congratulations, you can have a cookie and go touch some grass.
+ -->
+
+# Some personal thoughts
+The idea of making a map of European historical regions appeared when 
+I was studying the History of Poland where there were numerous references to terms like 
+Kuyavia, Mazovia, Lesser Poland…etc, and all the maps I could find were in Polish. 
+So, as a non-slavic language speaker I did have a hard time and thought others would struggle too. 
+I thus decided to make the most basic map of European regions to give some leads to people who are going to struggle like me.  
+
+With time, the extent of this project widened, and I became more and more aware of its limits. 
+The biggest one being my methodology which relies too much on my personal bias. 
+This work thus ended up as something like  
+*"Hey you’ve just discovered a region you didn’t know existed and are struggling to get an approximate idea of its position ? Here is the result of my research you can use to deepen yours."*  
+
+To put it simply, I am paving the way to further research, nothing more.  
+
+This project is doomed to be incomplete because I don’t have the skills, 
+the time nor the knowledge to make a good quality map. 
+What I chose instead was to build the foundation that History amateurs can use 
+to lift some burden in their research in the ocean of unknown knowledge and 
+that more skilled map makers can use to make their own maps. 
+
+<a name="paragraph7"></a>
+# 7.	Discussions that helped shape this map
+- <a href="https://www.reddit.com/r/MapPorn/comments/1fdij5t/historical_regions_of_europe_beta_version/" target="_blank">Beta version feedbacks</a>
+- <a href="https://www.reddit.com/r/Scotland/comments/1hc1kmn/what_are_the_historical_regions_of_scotland/" target="_blank">Scotland</a>
+- <a href="https://www.reddit.com/r/hungary/comments/1hakg8u/what_would_be_the_geographical_regions_of_hungary/" target="_blank">Hungary</a>
+- <a href="https://www.reddit.com/r/AskBalkans/comments/1fb4vd9/what_would_be_the_geographical_regions_of_the/" target="_blank">Balkans</a>
+- <a href="https://www.reddit.com/r/AskARussian/comments/1faqtzg/what_are_the_historical_regions_of_western_russia/" target="_blank">Russia</a>
+- <a href="https://www.reddit.com/r/germany/comments/1fabllc/need_help_drawing_historical_regions_of_germany/" target="_blank">Germany</a>
+- <a href="https://www.reddit.com/r/Slovakia/comments/1f9xn7q/are_those_historical_regions/" target="_blank">Slovakia</a> 
+
+# To do list
+- [ ] Change the base canvas for a less deformed one
+- [ ] Check the relevancy of the regions displayed by reading <a href="https://en.wikipedia.org/wiki/History_of_Spain" target="_blank">History of Spain</a>
+- [ ] Check the relevancy of the regions displayed by reading <a href="https://en.wikipedia.org/wiki/History_of_France" target="_blank">History of France</a>
+- [ ] Check the relevancy of the regions displayed by reading <a href="https://en.wikipedia.org/wiki/History_of_the_United_Kingdom" target="_blank">History of the UK</a>
+- [ ] Check the relevancy of the regions displayed by reading <a href="https://en.wikipedia.org/wiki/History_of_Poland" target="_blank">History of Poland</a>
+- [ ] Check the relevancy of the regions displayed by reading <a href="https://en.wikipedia.org/wiki/History_of_the_Czech_lands" target="_blank">History of Czechia</a>
+- [ ] Check the relevancy of the regions displayed by reading <a href="https://en.wikipedia.org/wiki/History_of_Sweden" target="_blank">History of Sweden</a>
+
+
+<!--
+
 <a name="paragraph1"></a>
 <a href="https://de.wikipedia.org/wiki/Kategorie:Historische_Landschaft_oder_Region_in_Europa" target="_blank">Wikipedia pages</a>  
 [Wikipedia pages](https://de.wikipedia.org/wiki/Kategorie:Historische_Landschaft_oder_Region_in_Europa)  
 
 <a href="" target="_blank">xxx</a>  
 
-
-
-<a href="https://www.markdownguide.org" target="_blank">Learn Markdown!</a>  
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com)
+-->
