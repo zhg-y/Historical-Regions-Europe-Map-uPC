@@ -374,7 +374,9 @@ But keep in mind that this is an approximate map that should be used alongside m
 I am not expecting you to go as far as looking at the sources I provided. 
 If you went through all the hardship of reading someone you have deemed to be stupid, 
 then congratulations, you can have a cookie and go touch some grass.
- -->
+ //-->
+ <!-- this is a comment -->
+ <!-- this is another comment -->
 
 # Some personal thoughts
 The idea of making a map of European historical regions appeared when 
