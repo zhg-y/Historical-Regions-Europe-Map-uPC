@@ -80,7 +80,9 @@ which later helped build a political entity. But most political entities encompa
 When this happened, the decision to depict one region and not the others was again an arbitrary choice (so I am again looking for feedbacks). 
 Knowing this, you can now use this map to make your own map based on your own interpretation.  
 
-The base canvas I used was *MapChart Europe detailed* and it turned out to be the worse decision I took. 
+The base canvas I used was 
+<a href="https://www.mapchart.net/europe-detailed.html" target="_blank">Map Chart Europe detailed</a> 
+and it turned out to be the worse decision I took. 
 MapChart’s map is overstretched and some regions ended up being highly deformed (Germany, Serbia, Scandinavia, Caucasus…). 
 Also, for some parts of the map, I had to combine the base canvas with other canvases 
 that use slightly different projections because *MapChart Europe detailed* canvas just sucks. 
@@ -94,7 +96,9 @@ the feedback section would have been polluted with unnecessary debates.
 
 <a name="paragraph4"></a>
 ## v1.3 release note
-This version is based on v1.2 version and features some fixes based on 
+This version is based on 
+<a href="old/Final_v1.2.png" target="_blank">v1.2 version</a> 
+and features some fixes based on 
 v1.2 feedbacks I have deemed to be relevant 
 (see <a href="old/v1.2_feedbacks.pdf" target="_blank">feedbacks file</a>). 
 This version features some changes for the following regions :
@@ -133,10 +137,10 @@ changed the borders of *Podolia* and removed regions that used to create pointle
 -	**Middle East / Caucasus** – Added *Arran*, *Shirvan*, *Kabardia*, *Ossetia*, 
 *Balkaria*, *Armenia Minor* and *Iranian Azerbaijan*.
 -	**Maghreb** – Reworked *Maghreb*.
--	**Russia** – Reworked *Russia*. (special thanks to u/LegalCamp for their help)
+-	**Russia** – Reworked *Russia*. (special thanks to u/LegalCamp878 for their help)
 -	Added various islands
 -	Various font fixes and color changes
--	*Watermarks* – Some people have been stealing this map after having removed the links to the attached file. 
+-	**Watermarks** – Some people have been stealing this map after having removed the links to the attached file. 
 I am fine with people stealing the map without credits but removing the links is a nope. 
 I would have preferred using the links as watermarks instead of a username, 
 but people are reluctant to click on links they suspect is a scam.
@@ -200,8 +204,7 @@ using the voivodeship division of the Grand Duchy of Lithuania.
 ## 6.	Ruthenia
 The term Ruthenia refers to the lands of the Kievan Rus. 
 This term gave birth to other derived names for more specific regions of the Kievan Rus. 
-I prefer not to use them as they are ambiguous and tend to be terms used by people 
-to refer to a land while people living in this said land don’t use these terms. 
+I prefer not to use them as they are ambiguous and tend to be exonyms. 
 But since I have encountered them a number of time when reading about the History of Eastern Europe, 
 here is a rapid explanation :
 -	**Red Ruthenia** : the lands of the Principality of Halychyna-Volhynia that has been annexed by the Kingdom of Poland. 
@@ -233,11 +236,15 @@ This is giving me some Hungarian regions vibes.
 ## 9.	Slovakia and Scotland
 People liked to use Slovakia and Scotland to discredit the rest of the map 
 by saying those regions were too fragmented and don’t match the level of fragmentation of the rest of the map. 
-A simple question : How easy is it to find a map showing where are Slovakia and Scotland ? 
-And now, how easy is it to find a map showing where are Orava and Elginshire ? 
+A simple question :   
+How easy is it to find a map showing where are Slovakia and Scotland ?   
+
+And now, how easy is it to find a map showing where are Orava and Elginshire ?   
+
 Slovakia can be represented as the whole country which is not relevant because people know where is Slovakia 
 or if they don’t know, it takes ~4 sec to find a map of world countries, 
-of Europe, of Eastern Europe… or it can be represented as it is on the current map 
+of Europe, of Eastern Europe or anything else showing where is Slovakia 
+or it can be represented as it is on the current map 
 which is way more enlightening because most people don’t know Slovak regions. 
 A similar reasoning can be made for Scotland. There are other ways of dividing Scotland, 
 but a <a href="https://www.reddit.com/r/Scotland/comments/1hc1kmn/what_are_the_historical_regions_of_scotland/" target="_blank">discussion</a> 
@@ -261,7 +268,8 @@ France is based on the pre-1790 royal provinces division.
 Some regions like Normandy or Île-de-France can be further divided into smaller regions 
 but I chose not to in order to keep the map readable enough. 
 More detailed maps can be found in the 
-<a href="Reference_maps/France" target="_blank">attached files</a>.  
+<a href="Reference_maps/France" target="_blank">attached files</a>. 
+*(this link is not supported by HTML, but the one in the README.md file does work)*  
 
 *Aquitaine* is a Frankish term derived from Latin that became *Guyenne* in Old French. 
 So, *Guyenne* is basically *Aquitaine*, but most of the time *Aquitaine* refers to 
@@ -340,8 +348,10 @@ The answer to the previous question applies here too.
 
 <a name="sub-paragraph6-4"></a>
 ## 4.	Thingummy shouldn’t be a region
-The broader question here is:*Should region X be removed ?*. 
-My general response is: What are the downsides of including too many regions ?  
+The broader question here is :*Should region X be removed ?*  
+
+My general response is:   
+What are the downsides of including too many regions ?  
 Here are the main issues:  
 1.	Visual clutter – An excessive number of regions can make the map unreadable, 
 with overlapping borders and labels. This is especially noticeable in areas like the Balkans and Hungary.
