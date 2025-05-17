@@ -269,7 +269,7 @@ Some regions like Normandy or Île-de-France can be further divided into smaller
 but I chose not to in order to keep the map readable enough. 
 More detailed maps can be found in the 
 <a href="Reference_maps/France" target="_blank">attached files</a>. 
-*(this link is not supported by HTML, but the one in <a href="https://zhg-y.github.io/Historical-Regions-Europe-Map-uPC/" target="_blank">README.md</a> does work)*  
+*(this link is not supported by HTML, but the one in <a href="https://github.com/zhg-y/Historical-Regions-Europe-Map-uPC/settings" target="_blank">README.md</a> does work)*  
 
 *Aquitaine* is a Frankish term derived from Latin that became *Guyenne* in Old French. 
 So, *Guyenne* is basically *Aquitaine*, but most of the time *Aquitaine* refers to 
